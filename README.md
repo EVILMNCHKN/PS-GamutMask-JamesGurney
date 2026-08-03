@@ -3,7 +3,7 @@
 James Gurney’s Gamut Mask built in Photoshop 
 By EVILMNCHKN
 
-Download happily... or angrily
+Pull from Git happily... or angrily
 
 Ensure your Notes tab is open so you can read the tutorial note in PS (Also is the one below)
 
