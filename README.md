@@ -3,6 +3,8 @@
 James Gurney’s Gamut Mask built in Photoshop 
 By EVILMNCHKN
 
+Download happily... or angrily
+
 Ensure your Notes tab is open so you can read the tutorial note in PS (Also is the one below)
 
 Use the Paths Tab for the Pen tool with the mask in the Group "Gamut Tool" under the Layers tab. This allows you to create custom Gamuts and reshape them however you like.
